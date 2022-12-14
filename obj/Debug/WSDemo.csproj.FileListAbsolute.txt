@@ -1,0 +1,11 @@
+C:\Users\GeraldineTorres\source\repos\WSDemo\bin\Debug\WSDemo.exe.config
+C:\Users\GeraldineTorres\source\repos\WSDemo\bin\Debug\WSDemo.exe
+C:\Users\GeraldineTorres\source\repos\WSDemo\bin\Debug\WSDemo.pdb
+C:\Users\GeraldineTorres\source\repos\WSDemo\bin\Debug\Topshelf.dll
+C:\Users\GeraldineTorres\source\repos\WSDemo\bin\Debug\Topshelf.xml
+C:\Users\GeraldineTorres\source\repos\WSDemo\obj\Debug\WSDemo.csproj.AssemblyReference.cache
+C:\Users\GeraldineTorres\source\repos\WSDemo\obj\Debug\WSDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\GeraldineTorres\source\repos\WSDemo\obj\Debug\WSDemo.csproj.CoreCompileInputs.cache
+C:\Users\GeraldineTorres\source\repos\WSDemo\obj\Debug\WSDemo.csproj.CopyComplete
+C:\Users\GeraldineTorres\source\repos\WSDemo\obj\Debug\WSDemo.exe
+C:\Users\GeraldineTorres\source\repos\WSDemo\obj\Debug\WSDemo.pdb
